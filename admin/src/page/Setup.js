@@ -370,7 +370,7 @@ class Setup extends React.Component {
           {this.state.step === 1 ? (
             <div className="step-1">
               <p>
-                Welcome to Petio, firstly lets log in to Plex to get all of your
+                Welcome to Petio testing, firstly lets log in to Plex to get all of your
                 user and server info
               </p>
               <button className="btn btn__square" onClick={this.loginOauth}>
